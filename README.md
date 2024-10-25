@@ -1,4 +1,4 @@
-oit=cerebro-docker
+oit-cerebro-docker
 --------------
 
 oit-cerebro-docker contains a OIT-modified version of the official docker files for [cerebro](https://github.com/lmenezes/cerebro) project.
